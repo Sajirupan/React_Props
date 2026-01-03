@@ -1,3 +1,10 @@
+import { BrowserRouter } from "react-router-dom";
+
+<BrowserRouter basename="/React_Props">
+  <App />
+</BrowserRouter>
+
+
 import { useState } from "react";
 import img1 from "./images/image1.jpg";
 import img2 from "./images/image2.jpg";
